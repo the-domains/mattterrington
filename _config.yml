@@ -1,0 +1,28 @@
+name: mattterrington
+favicon: null
+layout_spectrum: 0.14025404583662748
+typography_spectrum: 0.9446441503241658
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.4661642073187977
+  lightness: 0.3320863542612642
+  saturation: 0.17349134129472077
+  rhythmicContrast: 0.04097983334213495
+purpose: []
