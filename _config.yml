@@ -1,5 +1,7 @@
-favicon: null
-name: mattterrington
+analytics:
+  twitter: null
+  google: null
+  facebook: null
 opengraph:
   image: null
   type: null
@@ -10,31 +12,29 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-purpose: []
+    permalink:
+      path: '/:title/'
+layout_spectrum: 0
 color:
   saturation: 0.1734913412947208
   brandStrength: 0.4661642073187977
-  lightness: 0.3320863542612642
+  rhythmicContrast: 0.04097983334213495
   brandColors:
     - '#FBFBFB'
     - '#C60038'
     - '#9CAAC6'
     - '#6D7891'
     - '#BD8076'
-  rhythmicContrast: 0.04097983334213495
-typography_spectrum: 0.1517707
-layout_spectrum: 0
-analytics:
-  twitter: null
-  google: null
-  facebook: null
+  lightness: 0.3320863542612642
+purpose: []
 cta:
   bucket: null
   version: null
   domain: null
+favicon: null
+name: mattterrington
+typography_spectrum: 0.1517707
